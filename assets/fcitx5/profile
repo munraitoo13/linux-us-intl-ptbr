@@ -1,0 +1,11 @@
+[Groups/0]
+Name=Default
+Default Layout=us_notrema
+DefaultIM=keyboard-us_notrema
+
+[Groups/0/Items/0]
+Name=keyboard-us_notrema
+Layout=
+
+[GroupOrder]
+0=Default
